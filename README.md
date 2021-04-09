@@ -18,5 +18,5 @@ A very reliable and old method of organic business growth has been word of mouth
 ---
 ## Files
 
-Problem Statement: Problem_Statement.pdf
-Final Submission: TPF_Slide_Deck.pdf
+- Problem Statement: Problem_Statement.pdf
+- Final Submission: TPF_Slide_Deck.pdf
